@@ -1,0 +1,46 @@
+﻿@{
+    ViewData["Title"] = "Tax Code";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Below is the tax calculation for My Previous Annual Income of ₦1,800,000 according to Nigeria's tax code:</p>
+
+@{
+    decimal income = 1800000;
+    decimal tax = 0;
+
+  
+    if (income > 3200000)
+    {
+        tax += (income - 3200000) * 0.24m;
+        income = 3200000;
+    }
+    if (income > 1600000)
+    {
+        tax += (income - 1600000) * 0.21m;
+        income = 1600000;
+    }
+    if (income > 1000000)
+    {
+        tax += (income - 1000000) * 0.19m;
+        income = 1000000;
+    }
+    if (income > 500000)
+    {
+        tax += (income - 500000) * 0.15m;
+        income = 500000;
+    }
+    if (income > 200000)
+    {
+        tax += (income - 200000) * 0.11m;
+        income = 200000;
+    }
+    if (income > 0)
+    {
+        tax += income * 0.07m;
+    }
+}
+
+<p>Your annual income is: ₦@income</p>
+<p>Your total tax is: ₦@tax</p>

@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\home\\tax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\home\\tax.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\home\\workexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\home\\workexperience.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\home\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|c:\\users\\user\\source\\repos\\bincomcontactsessionassignment2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55A5815E-B462-47D8-8DDD-B021AE6F32D0}|BincomContactSessionAssignment2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tax.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Tax.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Tax.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Tax.cshtml",
+              "RelativeToolTip": "Views\\Home\\Tax.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T15:46:09.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T23:44:48.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:55:37.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:51:43.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Home\\Projects.cshtml",
+              "ViewState": "AQIAAAEAAAAAMzMzMzMLwCgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:50:54.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkExperience.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\WorkExperience.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\WorkExperience.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\WorkExperience.cshtml",
+              "RelativeToolTip": "Views\\Home\\WorkExperience.cshtml",
+              "ViewState": "AQIAABUAAABgZmZmZmYkwBgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:10:37.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:10:30.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:09:01.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BincomContactSessionAssignment2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:00:46.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
